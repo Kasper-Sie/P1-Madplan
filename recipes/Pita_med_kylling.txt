@@ -1,0 +1,16 @@
+name: Pita med Kylling
+meat: 1
+serving: 4 
+cook_time: 0:30
+ingredients: Kyllingfillet,Citron saft,Roeget paprika,Soed paprika,Pressede hvidloeg,Olivenolie,Cremefraiche 18%,Mayonnaise,Parmasan,Pesto,Pitabroed,Blandet salat,Rucola,Agurk,Tomat
+ingredientsAmount: 400g,1 stk,0.50 tsk,1 tsk,2 fed,1 tsk,1 dl,1 spsk,50g,1 spsk,4 stk,100g,100g,0.50 stk,2 stk
+directions:
+Skær kyllingestykkerne i tern.
+Rør en marinade af citronsaft, citronskal, røget paprika, sød paprika, 
+hvidløg, olivenolie, salt og peber. Vend kyllingestykkerne i marinaden og 
+lad dem trække smag, mens du laver dressing og gør grøntsagerne klar.
+Rør cremefraiche og mayonnaise med fintrevet parmesan og smag godt til med pesto, 
+citronsaft og fintrevet citronskal, samt salt og peber.
+Lun pitabrødene i ovnen eller på brødristeren.
+Steg kyllingestykkerne møre på en pande med olie ved middelvarme til de er gennemstegte.
+Fyld pitabrød med salat, tomat, agurk, parmesandressing samt krydret kylling.

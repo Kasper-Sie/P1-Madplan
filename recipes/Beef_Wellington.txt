@@ -1,0 +1,24 @@
+name: Beef Wellington
+meat: 1
+serving: 6 
+cook_time: 1:30
+ingredients: Oksemoerbrad,Grov sennep,Dijon sennep,Champignon,Skalotteloeg,Hvidloeg,Timian,Troeffel,Serranoskinke,Butterdej,Aeggeblomme,Olivenolie,Smoer
+ingredientsAmount: 1kg,1 spsk,1 spsk,500g,4 stk,3 fed,1 tsk,1 stk,140g,400g,2 stk,1 spsk,1 spsk
+directions: 
+Puds mørbraden af for sener. 
+Dup mørbraden godt tør og lad den hvile på en rist i 30 minutter.
+Brun mørbraden godt af på alle sider på en varm pande med smør og olie. 
+Smør den op med en blanding af dijon og groftkornet sennep.
+Steg champignon, skalotteløg, hvidløg og timian under omrøring på panden. 
+Sauter til al væden er helt fordampet. 
+Når det er kølet lidt af, dup mørbraden riv trøffel i svampeblandingen.
+Kom et stykke film på køkkenbordet og fordel serranoskinken på filmen. 
+Fordel derefter svampe, løg og trøffelblandingen. 
+Læg oksemørbraden på, rul den sammen til en pakke og luk enderne med skinke.
+Mørbrad pakket ind i svampe og skinke, skal nu pakkes ind i butterdej. 
+Lukningen skal være i bunden og placeres på et stykke bagepapir.
+Pensl først med æggeblomme og skær derefter ridser eller udsmykning i butterdejen.
+Kom en pizzaplade i ovnen og varm den op til 225 grader, alm ovn.
+Når ovnen er varm, skrues ned til 200 grader alm ovn. sæt stegen over på pizzastenen. 
+Bag i ca. 25-35 minutter til den har en kernetemperatur på 56 grader.
+Lad derefter stegen hvile i 10 minutter, inden den serveres og skæres ud i tykke. 

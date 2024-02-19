@@ -1,0 +1,13 @@
+name: Macaroni and Cheese
+meat: 0
+serving: 4
+cook_time: 0:25
+ingredients: Finthakket loeg,Presset hvidloeg,Smoer,Groentsagsbouillon,Groftrevet squash,Macaroni,Floedeost,Frisk mozzarella,Parmesan,Muskatnoed,Soed paprika,Baby spinat
+ingredientsAmount: 1 stk,2 fed,10g,4 dl,300g,350g,75g,125g,50g,1 knivspids,1 tsk,100g
+directions: 
+Sauter løg og hvidløg i en gryde med smør til løgene er klare og bløde. 
+Tilsæt grøntsagsboullion, squash og macaroni og rør det godt igennem. 
+Lad det simre under låg til macaronien er lige knap mør.
+Rør flødeost, mozzarella og parmesan i retten, sammen med frisk spinat og
+smag godt til med muskatnød, paprika, salt og peber. Rør det godt igennem 
+til pastaen er perfekt mør og mozzarellaosten er cremet.

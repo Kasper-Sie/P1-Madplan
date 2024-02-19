@@ -1,0 +1,18 @@
+name: Falafler
+meat: 0
+serving: 4
+cook_time: 12:00
+ingredients: Tørrede kikærter,Persille,Finthakket hvidløg,Loeg,Stoedt Koriander,Stoedt spidskommen,Kartoffel,Aeg,Rasp,Chili,Citron,Fritureolie,Pitabroed,Tomat,Agurk,Salat,Cremefraiche,Flagesalt
+ingredientsAmount: 400g,2 haandfulde,4 fed,2 stk,4 tsk,4 tsk,2 tsk,2 stk,3 stk,4 spsk,0.5 tsk,1.5 stk,1L,4 stk,2 stk,0.5 stk,70g,1 dl,1 tsk
+directions: 
+Sæt de tørrede kikærter i blød i koldt vand i ca. 12-24 timer. 
+Skift gerne vandet 1-2 gange og skyl dem grundigt efter iblødsætningen. 
+Kom kikærterne og de øvrige ingredienser i en foodprocessor og kør, 
+til farsen er ensartet i konsistensen.
+Er farsen lidt for våd, så tilsæt et par spsk groft mel eller ekstra rasp 
+Form runde falafler med en ske. Varm en gryde op med fritureolie til 175-180 grader
+og steg falaflerne lidt af gangen, til de er sprøde og lækre. 
+Tag dem op med en hulske og lad dem dryppe af på fedtsugende papir. 
+Server falaflerne med citron til at dryppe over og et drys salt. 
+Rør en dressing af lidt cremefraiche smagt til med citronskal og salt 
+og fyld dem i pitabrød med grønt og dressing.

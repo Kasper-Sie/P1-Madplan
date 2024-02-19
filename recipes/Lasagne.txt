@@ -1,0 +1,19 @@
+name: Lasagne
+meat: 1
+serving: 4 
+cook_time: 3:00
+ingredients: Loeg,Hvidloeg,Oksekoed,Oregano,Timian,Gulerod,Bladselleri,Squash,Tomatpure,Hakkede tomater,Roedvin eller groentsagsbouillon,Olivenolie,Mornaysauce,Lasagneplader,Frisk mozzarella
+ingredientsAmount: 2 stk,4 fed,400g,2 tsk,1 tsk,4 stk,5 staenger,1 stk,1 dl,2 daaser,1 dl,2 spsk,200g,125g
+directions:
+Sauter løg og hvidløg i olivenolie, til de er gennemsigtige.
+Tilsæt kødet og brun det ved høj varme. 
+Skru ned for varmen og tilsæt resten af ingredienserne.
+Lad saucen simrekoge under låg i 2-6 timer – jo længere, jo bedre. 
+Smag på saucen løbende og smag til med flere krydderier, tomatpuré, flåede tomater
+efter smag – og endelig også salt og peber. Hvis du synes 
+den bliver for tør, kan du komme mere grøntsagsboullion i, men vent gerne til den 
+har simret i en times tid for grøntsagerne afgiver også en del væde til saucen.
+Kom et lag mornaysauce i et smurt ovnfast fad. Kom derefter skiftevis lasagnesauce
+og -plader i fadet og slut af med sauce. Top til sidst med et lag mornaysauce og 
+mozzarella, skåret i tynde skiver. Kom fadet i en forvarmet ovn ved 175 grader varmluft
+og bag lasagnen i ca. 20-25 minutter, til lasagnepladerne er møre med lidt bid.

@@ -1,0 +1,11 @@
+name: Frikadeller
+meat: 1
+serving: 4 
+cook_time: 0:45
+ingredients: Hakket svinekoed,Hvedemel,Havregryn,Maelk,Aeggehvide,Aeg,Loeg,Hvidloeg,Timian,Stoedt spidskommen,Salt,Olivenolie,Smoer
+ingredientsAmount: 500g,2 spsk,2 spsk,1 dl,1 stk,1 stk,1 stk,1 fed,1 tsk,0.50 tsk,2 tsk,3 spsk,1 spsk
+directions: 
+Rør alle ingredienserne med en håndmikser i 2-3 minutter. 
+Lad frikadellefarsen hvile i minimum en halv time i køleskabet.
+Form frikadellerne og steg dem på en pande med smør og olie ved middelvarme
+i cirka 5 minutter på hver side, til de er gennemstegte.

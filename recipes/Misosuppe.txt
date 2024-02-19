@@ -1,0 +1,16 @@
+name: Misosuppe
+meat: 0
+serving: 4 
+cook_time: 0:25
+ingredients: Miso,Ingefaer,Lime,Kogende vand,Groentsagsbouillon,Svampe,Nudler,Pillede edamameboenner,Foraarsloeg,Boennespirer,Baby spinat,Olivenolie
+ingredientsAmount: 3 spsk,1 spsk,1 stk,1L,3 dl,250g,250g,150g,3 staenger,1 haandfuld,1 haandfuld,1 spsk
+directions:
+Rør miso, ingefær og saft fra lime sammen i en gryde til det er ensartet. 
+Rør derefter lidt af det kogende vand i og rør til misopastaen opløses. 
+Hæld resten af det kogende vand over sammen med grøntsagsboullion
+og rør det suppen godt sammen. Lad suppen stå på lav varme, 
+så den holdes varm, men uden den koger.Rist svampene ved høj varme i lidt 
+olie på en pande. Kog nudlerne efter anvisning på pakken og hæld derefter 
+det kogende vand over edamamebønnerne, så de tør op, hvis de er frosne. 
+Bland nudler og edamamebønner. Anret fyldet i dybe tallerkener 
+eller skåle og hæld suppen over.

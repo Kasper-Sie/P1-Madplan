@@ -1,0 +1,13 @@
+name: Vegetar tarteletter med svampe og cremet sauce
+meat: 0
+serving: 4
+cook_time: 0:30
+ingredients: Champignon,Smoer,Svampe mix,Loeg,Squash,Groentsagsbouillon,Piskefloede,Tarteletter,Persille,Olivenolie
+ingredientsAmount: 400g,20g,200g,1 stk,300g,1 dl,1 dl,12 stk,1 haandfuld,1 spsk
+directions: 
+Rist champignon ved høj varme på en pande med olie til champignonerne 
+har fået en flot farve. Skru ned til middelvarme og tilsæt smør, svampemiks og løg.
+Lad det stå og simre og sautere under jævnlig omrøring, til løgene er klare. Kom squash, 
+grøntsagsboullion og piskefløde på panden og lad det simre let til det koger en smule 
+ind og bliver til en lækker cremet svampesauce.Fyld de lune tarteletter med svampesaucen
+ og pynt med persille og friskkværnet sort peber.
